@@ -1,0 +1,5 @@
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.DataAccess.Dapper\bin\Debug\netstandard2.0\FullStackWebAppwithAngular.Domain.dll
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.DataAccess.Dapper\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.DataAccess.Dapper\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.DataAccess.Dapper.AssemblyInfo.cs
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.DataAccess.Dapper\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.DataAccess.Dapper\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.DataAccess.Dapper.csproj.CoreCompileInputs.cache

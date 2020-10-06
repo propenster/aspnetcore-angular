@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AsfKuTArerbtnEZ5ybbMREIk4a75GbI9972RG0cm+WvcvrdU/gjtfFWGUfxtbxQcNtmyLC+n7mCsIk1H2GU1AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\FullStackWebApi\\Backend\\FullStackWebAppwithAngular\\FullStackWebAppwithAngular.Domain\\FullStackWebAppwithAngular.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GD0024\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GD0024\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

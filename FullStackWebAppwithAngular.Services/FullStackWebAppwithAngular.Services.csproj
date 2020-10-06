@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FullStackWebAppwithAngular.DataAccess.Dapper\FullStackWebAppwithAngular.DataAccess.Dapper.csproj" />
+    <ProjectReference Include="..\FullStackWebAppwithAngular.Domain\FullStackWebAppwithAngular.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

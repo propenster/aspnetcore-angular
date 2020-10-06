@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FullStackWebAppwithAngular.DataAccess.Dapper\FullStackWebAppwithAngular.DataAccess.Dapper.csproj" />
+    <ProjectReference Include="..\FullStackWebAppwithAngular.Domain\FullStackWebAppwithAngular.Domain.csproj" />
+    <ProjectReference Include="..\FullStackWebAppwithAngular.Services\FullStackWebAppwithAngular.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

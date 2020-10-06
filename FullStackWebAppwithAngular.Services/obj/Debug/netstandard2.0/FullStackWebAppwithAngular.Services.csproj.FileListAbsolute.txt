@@ -1,0 +1,4 @@
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.Services\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.Services.csprojAssemblyReference.cache
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.Services\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.Services.AssemblyInfoInputs.cache
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.Services\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.Services.AssemblyInfo.cs
+C:\Dev\FullStackWebApi\Backend\FullStackWebAppwithAngular\FullStackWebAppwithAngular.Services\obj\Debug\netstandard2.0\FullStackWebAppwithAngular.Services.csproj.CoreCompileInputs.cache
