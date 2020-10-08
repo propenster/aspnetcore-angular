@@ -34,12 +34,12 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 CREATE PROCEDURE [DeleteDepartment]
-@DeparmtentId int
+@DepartmentId int
 
 AS
 BEGIN
 SET NOCOUNT ON;
-DELETE FROM [dbo].[Department] WHERE DepartmentId=@DeparmtentId
+DELETE FROM [dbo].[Department] WHERE DepartmentId=@DepartmentId
 END
 
 -- SP_GetAllDepartments Script Date: 08/10/2020 **********/ ----
